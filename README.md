@@ -28,7 +28,7 @@ Then it scores the password and displays the result as:
 As a student learning web development, I created this project to practice JavaScript and improve user interaction on the front-end. It also helps raise awareness about password security.
 
 ## 📸 Screenshots
-![Screenshot] (Screenshot1.png)
+![Screenshot] (Screenshot 1.png)
 
 ---
 
