@@ -28,7 +28,8 @@ Then it scores the password and displays the result as:
 As a student learning web development, I created this project to practice JavaScript and improve user interaction on the front-end. It also helps raise awareness about password security.
 
 ## 📸 Screenshots
-! [ Screenshot ] (https://github.com/lamzef-achraf/Password-Visualizer/blob/47ef62133a0d8a04c73cc81978804eb06cd36a77/Screenshot%201.png)
+### Password Strength Cheker Interface
+! [ Screenshot 1 ] (https://github.com/lamzef-achraf/Password-Visualizer/blob/47ef62133a0d8a04c73cc81978804eb06cd36a77/Screenshot%201.png)
 
 ---
 
