@@ -8,7 +8,7 @@ passwordInput.addEventListener("input", () => {
   updateStrengthBar(strength);
 });
 
-
+function getPasswordStrength(password) {
   let strength = 0;
 
   // Conditions for determining password strength
@@ -34,7 +34,10 @@ function updateStrengthBar(strength) {
   } else if (strength === 3) {
     color = "blue";
     message = "Strong";
-
+} else if (strength === 4) {
+    color = "green";
+    message = "Very Strong";
+  }
 
   // Update the strength bar with correct interpolation
   strengthBar.innerHTML = `<div style="height:100%; width:${width}; background:${color}; transition:width 0.3s;"></div>`;
