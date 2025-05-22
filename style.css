@@ -32,14 +32,7 @@ input[type="password"] {
   margin-bottom: 10px;
 }
 
-#strength-bar::after {
-  content: "";
-  display: block;
-  height: 100%;
-  width: 0%;
-  background-color: red;
-  transition: width 0.3s ease-in-out;
-}
+
 
 #feedback {
   font-weight: bold;
