@@ -12,13 +12,6 @@ function getPasswordStrength(password) {
   let strength = 0;
 
   // Conditions for determining password strength
-  if (password.length >= 8) strength += 1;  // Length check
-  if (/[A-Z]/.test(password)) strength += 1;  // Uppercase letters check
-  if (/[0-9]/.test(password)) strength += 1;  // Numbers check
-  if (/[^A-Za-z0-9]/.test(password)) strength += 1;  // Special characters check
-
-  return strength;
-}
 
 function updateStrengthBar(strength) {
   let width = `${strength * 25}%`;  // Correct interpolation
