@@ -23,7 +23,14 @@ input[type="password"] {
   margin-bottom: 10px;
 }
 
-
+#strength-bar {
+  height: 10px;
+  width: 100%;
+  background: #ddd;
+  border-radius: 5px;
+  overflow: hidden;
+  margin-bottom: 10px;
+}
 
 #strength-bar::after {
   content: "";
