@@ -28,7 +28,7 @@ Then it scores the password and displays the result as:
 As a student learning web development, I created this project to practice JavaScript and improve user interaction on the front-end. It also helps raise awareness about password security.
 
 ## 🌐 Live Demo
-(https://lamzef-achraf.github.io/Password-Visualizer/)
+https://lamzef-achraf.github.io/Password-Visualizer/
 ---
 
 Made with ❤ by a beginner developer eager to learn more.
